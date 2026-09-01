@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '12.0'
   s.swift_version = '5.0'
 
-  s.source_files = 'AKCustomView/Classes/**/*'
+  s.source_files = 'AKCustomView/Classes/**/*', 'AKCustomView/AKCustomView/Classes/**/*'
   
   # s.resource_bundles = {
   #   'AKCustomView' => ['AKCustomView/Assets/*.png']
