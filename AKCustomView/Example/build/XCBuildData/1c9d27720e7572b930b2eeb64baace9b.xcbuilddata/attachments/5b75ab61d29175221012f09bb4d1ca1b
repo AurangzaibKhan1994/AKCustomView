@@ -1,0 +1,5 @@
+
+module AKCustomView.Swift {
+  header "AKCustomView-Swift.h"
+  requires objc
+}

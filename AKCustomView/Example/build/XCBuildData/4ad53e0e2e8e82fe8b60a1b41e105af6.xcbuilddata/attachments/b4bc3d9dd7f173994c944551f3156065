@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Pods.build/Release-iphoneos/AKCustomView.build/Objects-normal/arm64/AKCustomView-primary.swiftconstvalues",
+    "dependencies" : "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Pods.build/Release-iphoneos/AKCustomView.build/Objects-normal/arm64/AKCustomView-primary.d",
+    "diagnostics" : "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Pods.build/Release-iphoneos/AKCustomView.build/Objects-normal/arm64/AKCustomView-primary.dia",
+    "emit-module-dependencies" : "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Pods.build/Release-iphoneos/AKCustomView.build/Objects-normal/arm64/AKCustomView-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Pods.build/Release-iphoneos/AKCustomView.build/Objects-normal/arm64/AKCustomView-primary-emit-module.dia",
+    "pch" : "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Pods.build/Release-iphoneos/AKCustomView.build/Objects-normal/arm64/AKCustomView-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Pods.build/Release-iphoneos/AKCustomView.build/Objects-normal/arm64/AKCustomView-primary.swiftdeps"
+  },
+  "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/AKCustomView.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/AKCustomView.build/Objects-normal/arm64/AKCustomView.o",
+    "llvm-bc" : "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Pods.build/Release-iphoneos/AKCustomView.build/Objects-normal/arm64/AKCustomView.bc",
+    "object" : "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Pods.build/Release-iphoneos/AKCustomView.build/Objects-normal/arm64/AKCustomView.o"
+  }
+}

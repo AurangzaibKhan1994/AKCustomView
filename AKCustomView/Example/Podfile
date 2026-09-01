@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '15.0'
+
+target 'AKCustomView_Example' do
+  pod 'AKCustomView', :path => '../'
+
+  target 'AKCustomView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

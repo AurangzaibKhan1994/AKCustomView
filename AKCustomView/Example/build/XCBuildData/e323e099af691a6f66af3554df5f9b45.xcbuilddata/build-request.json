@@ -1,0 +1,52 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e987830b6a86b3953607a3120622968e4f5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98907c86cd9cf2402f749ccb65400d7d54"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98750057e4bf6d1c731cc6806b06ed578a"
+    }
+  ],
+  "containerPath" : "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/avanza/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/avanza/Library/Developer/Xcode/DerivedData/Pods-eysaryactkcnvgguunaynrznmbkz/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/avanza/Library/Developer/Xcode/DerivedData/Pods-eysaryactkcnvgguunaynrznmbkz/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

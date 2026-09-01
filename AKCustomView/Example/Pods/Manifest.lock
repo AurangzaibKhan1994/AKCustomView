@@ -1,0 +1,16 @@
+PODS:
+  - AKCustomView (0.1.0)
+
+DEPENDENCIES:
+  - AKCustomView (from `../`)
+
+EXTERNAL SOURCES:
+  AKCustomView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AKCustomView: 07e556d97afcddd29dbe2957921cfd407254dc14
+
+PODFILE CHECKSUM: b50d1ab549c0648b12463ca9cff0984207c1fee2
+
+COCOAPODS: 1.16.2

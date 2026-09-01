@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Pods-AKCustomView_Tests' in project 'Pods'
+➜ Explicit dependency on target 'Pods-AKCustomView_Example' in project 'Pods'
+Target 'Pods-AKCustomView_Example' in project 'Pods'
+➜ Explicit dependency on target 'AKCustomView' in project 'Pods'
+Target 'AKCustomView' in project 'Pods' (no dependencies)

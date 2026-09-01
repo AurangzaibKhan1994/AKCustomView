@@ -1,0 +1,4 @@
+
+module AKCustomView.__Swift {
+  exclude header "AKCustomView-Swift.h"
+}

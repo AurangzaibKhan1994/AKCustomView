@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Release-iphoneos/AKCustomView/AKCustomView.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Pods.build/Release-iphoneos/AKCustomView.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Release-iphoneos/AKCustomView/AKCustomView.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "AKCustomView-Swift.h",
+      "external-contents": "/Users/avanza/Documents/AurangzebKhan/My projects/AKCustomView/Example/build/Pods.build/Release-iphoneos/AKCustomView.build/unextended-interface-header.h",
+    }]
+  }]
+}
