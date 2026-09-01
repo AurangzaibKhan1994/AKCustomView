@@ -42,12 +42,10 @@ public class AKCustomView: UIView {
     
     /// changes color upon tap or long press gesture
     @objc func changeRandomBackgroundColor(){
-        //        if allowTapAction{
-        let red = CGFloat.random(in: 0...1) // .rounded(toPlaces: 1)
+        let red = CGFloat.random(in: 0...1)
         let green = CGFloat.random(in: 0...1)
         let blue = CGFloat.random(in: 0...1)
-        self.backgroundColor = UIColor(cgColor: CGColor(red: red, green: green, blue: blue, alpha: 1.0))
-        //        }
+        self.backgroundColor = UIColor(red: red, green: green, blue: blue, alpha: 1.0)
     }
 }
 
