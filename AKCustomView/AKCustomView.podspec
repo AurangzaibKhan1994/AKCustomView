@@ -8,13 +8,13 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AKCustomView'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A customizable UIView that changes background color randomly on tap.'
   s.description      = 'AKCustomView is a lightweight Swift UIView component that changes its background color randomly when tapped or clicked.'
 
   s.homepage         = 'https://github.com/AurangzaibKhan1994/AKCustomView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Aurangzeb Khan' => 'aurangzeb.khan@avanzasolutions.com' }
+  s.author           = { 'Aurangzeb Khan' => 'aurangzaibasadkhan1994@gmail.com' }
   s.source           = { :git => 'https://github.com/AurangzaibKhan1994/AKCustomView.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '12.0'
