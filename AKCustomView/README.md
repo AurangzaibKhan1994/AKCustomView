@@ -22,7 +22,7 @@ pod 'AKCustomView'
 
 ## Author
 
-Aurangzeb Khan, aurangzeb.khan@avanzasolutions.com
+Aurangzeb Khan, aurangzaibasadkhan1994@gmail.com
 
 ## License
 
